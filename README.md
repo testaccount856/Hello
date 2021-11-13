@@ -1,3 +1,3 @@
 # Hello
-my firs repository
+This is my firsr repository.
 I am Matěj. Příliš žluťoučký kůň úpěl ďábelské ódy.
